@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/zemirco/redirect.svg?branch=master)](https://travis-ci.org/zemirco/redirect)
+
 ## Run
 
 ```bash
